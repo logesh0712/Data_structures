@@ -1,0 +1,38 @@
+How to approach data structure problems: 
+_________________________________________
+	1.Communication & requirement gathering (Think out load and get clarity on the problem) 
+		some problems looks like very simple. but you have no idea what customer/interviewer have in mind.
+		so spend some time here. look for below example
+		https://www.youtube.com/watch?v=XKu_SEDAykw 
+    In some cases if you are not getting the requirement, go to step 4 and then come back to here.
+    
+	2.Data structures & Algorithm (start from simple solution & optimize) --> this is the good way. no body cannot give optimised on first shot.
+		Start with simple solution - find out time complexity.
+		Then think of better way - find out time complexity and compare the solutions you have in hand.
+		Finalize the solution and then go to coding
+    
+	3.Coding 
+		The goal here is you need to have a good production level code.
+		So when starting to practise start with writing pseudo code.
+		Try to convert pseudo code to production code in paper workouts.
+		
+		practise:
+		_________
+		compare code with good codes online for the problems you solved.
+		By practise you will come to know below stuffs
+        Names:
+          where to declare variables
+          what variable names to use (use meaninful always) 
+          what function name to use (your function name should tell your task inside your function)
+        
+        Code:
+          How to break down to sub tasks and reuse code. 
+          how to write util methods. (Always get necessary inputs for your function from user and write down util methods with your own extra inputs)
+    			where to check the conditions
+          boundary conditions
+          where to write comments...etc
+
+	4.Boundary conditions, test case and error checking 
+		Think about different input which can break your code.
+		In some cases if you are not getting the requirements, apply this steps on requirement and gathering itself to understand the problem better.
+		if you are using recursive methods, think on conditions when you will come out of the loop.
