@@ -1,0 +1,76 @@
+Some example problems to start with(kind of hard): come here after learning the concepts and solving some simple and basic questions
+__________________________________________
+
+2D Array problems: 
+___________________
+
+	https://www.geeksforgeeks.org/rotate-a-matrix-by-90-degree-in-clockwise-direction-without-using-any-extra-space/ 
+
+	Find number of islands problem. 
+
+String: 
+_______
+	Permutation of a string 
+
+Linked List: 
+______________
+	Clone a random pointer 
+
+Heap: 
+______
+	find top k in a stream.  
+
+Tree:
+_____
+ 	Boundary traversal, 
+
+	Clone a tree, 
+
+	Mirror of a tree, 
+
+	LCA of a tree 
+
+	diameter of a binary tree. 
+
+	https://www.geeksforgeeks.org/print-nodes-distance-k-given-node-binary-tree/ 
+
+	https://www.geeksforgeeks.org/bottom-view-binary-tree/ 
+
+	 
+Dynamic programming:
+____________________	
+	learn the concept first:
+		https://www.geeksforgeeks.org/dynamic-programming/
+
+	problems:
+	_________
+		Coin change problem. 
+
+		0 - 1 Knapsack Problem 
+
+		Histogram in 2d array. 
+		
+		Edit distance: https://www.interviewbit.com/problems/edit-distance/ 
+
+		https://www.geeksforgeeks.org/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum/ 
+
+		https://www.geeksforgeeks.org/word-break-problem-dp-32/ 
+
+		Regular Expression https://www.interviewbit.com/problems/regular-expression-match/  
+
+		Max product subarray. 
+
+		Longest bitonic subsequence. 
+
+		Arithmetic progression https://www.geeksforgeeks.org/longest-arithmetic-progression-dp-35/  
+
+		https://www.geeksforgeeks.org/longest-palindrome-substring-set-1/ 
+
+
+Bitwise operators: 
+__________________
+	Basic :  learn basics
+
+	Find two non-repeating elements in an array. 
+
+	Count number of bits to be flipped to convert A to B 
