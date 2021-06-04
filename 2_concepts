@@ -1,0 +1,52 @@
+Time complexity: 
+__________________
+	https://www.bigocheatsheet.com/ 
+
+
+Steps to become pro:
+___________________
+	Go through below data structure concepts. 
+  Its okay to skip some advance concepts initially.
+	try to work out some easy and basic problems in paper first and bring your production level coding standard in flow.
+	Then go to some sites like interview bit, leetcode ..etc to start practising.
+	FYI --> There is no one like pro :)
+ 
+Data structures: (Most common and good problems to start on each concept is below)
+________________
+	Arrays 
+
+	Stacks 
+
+	Queues 
+
+	Sets 
+
+	Maps 
+
+	Linked list 
+
+	Binary trees 
+
+	Heaps 
+
+	Graphs (Advance) --> Start with breath and depth first traversal
+
+ 
+
+Algorithms: 
+___________
+	Sorting, Searching, Binary search 
+
+	Recursion 
+
+	Graph traversals, Breadth & depth first 
+
+	Dynamic programming and memorization (Advance)
+		its little hard at beginning. must needed one.
+		This is tushar youtube videos: He would have given good lectures on most of the problem.
+		when you are stuck on any problems, checkout whether he solved it in his videos. 
+		https://www.youtube.com/user/tusharroy2525/videos 
+
+	Divide and conquer (Advance)
+
+	Greedy Algorithms (Advance)
